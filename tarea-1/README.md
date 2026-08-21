@@ -26,3 +26,24 @@ El acierto de tomar un **tema aparentemente simple** como los **cuentos infantil
 
 ![](/tarea-1/FOTOS/foto3.png)
 
+Lo que más me llamó la atención de su estructura narrativa fue el **uso de imágenes de textos infantiles** donde efectivamente se diferenciaba el uso de pronombres y el **uso de gráficos** que seguían la **“estética infantil”** del tema. 
+
+![](/tarea-1/FOTOS/foto4.png)
+
+# Ver esta *webstory* se siente como volver a leer un cuento infantil.
+
+Además, a partir del experimento con las 1.300 personas demuestra que la **estructura de esta *webstory* no se limita a mostrar solo archivo histórico**, sino que se complementan ambas investigaciones. 
+
+![](/tarea-1/FOTOS/foto5.png)
+
+Leer esta *webstory* no se siente leer una página web normal, sino que se convierte en un viaje dentro de un cuento infantil y que se siente casi pedagógico. 
+
+## Efectividad para transmitir la información
+
+La manera en que transmite la información es clara, efectiva y llamativa y esto se apoya en varios factores:
+
+* No utiliza datos o gráficos de manera aislada, sino que están acompañados de ilustraciones extraídas de los libros analizados. Esto permite clavar la información en la memoria visual del lector.
+
+* El equipo desarrollador explicita las decisiones que tomaron para llevar a cabo la investigación, como el no basarse en la ropa o pestañas dibujadas para asignar género, sino que los identificaban a partir de los pronombres textuales. 
+
+* El uso del humor y de “microhistorias” alivianan la densidad de la información. Hacer referencias a Candy Crush, meter dramas de animales o hacer remates humorísticos hace un equilibrio entre la lectura amigable y entretenida y el rigor estadístico.
