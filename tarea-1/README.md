@@ -2,7 +2,7 @@
 
 La webstory que elegí es [Bears Will Be Boys](https://pudding.cool/2025/07/kids-books/), de The Pudding, que investiga el **cómo y por qué asignamos género a los animales antropomórficos en la literatura infantil** y cómo ese sesgo se reproduce en el **imaginario colectivo** cotidiano.
 
-<img src="/tarea-1/FOTOS/foto1.png" width="800">
+<img src="/tarea-1/FOTOS/foto1.png" width="900">
 
 La investigación parte de una pregunta aparentemente ingenua: cuando vemos un animal en un cuento o en la naturaleza, **¿por qué tendemos a asumir por defecto que es masculino?** Para responder, los desarrolladores cruzaron dos investigaciones complementarias:
 
