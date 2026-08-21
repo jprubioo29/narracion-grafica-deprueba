@@ -2,13 +2,13 @@
 
 La webstory que elegí es [Bears Will Be Boys](https://pudding.cool/2025/07/kids-books/), de The Pudding, que investiga el **cómo y por qué asignamos género a los animales antropomórficos en la literatura infantil** y cómo ese sesgo se reproduce en el **imaginario colectivo** cotidiano.
 
-![](/tarea-1/FOTOS/foto1.png)width=250
+![](/tarea-1/FOTOS/foto1.png)
 
 La investigación parte de una pregunta aparentemente ingenua: cuando vemos un animal en un cuento o en la naturaleza, **¿por qué tendemos a asumir por defecto que es masculino?** Para responder, los desarrolladores cruzaron dos investigaciones complementarias:
 
-* Hicieron un análisis de cerca de 300 libros ilustrados populares de habla inglesa que contenían más de 800 personajes de animales. Además, registraron cómo eran nombrados y tratados gramaticalmente en el texto.
+1. Hicieron un análisis de cerca de 300 libros ilustrados populares de habla inglesa que contenían más de 800 personajes de animales. Además, registraron cómo eran nombrados y tratados gramaticalmente en el texto.
 
-* Realizaron un experimento con 1.300 personas, donde les pidieron a los participantes continuar una “microhistoria” que comenzaba de manera abierta: “Y entonces el [animal] dijo: ‘Debo ir al río’. Al llegar…”. De esta manera, lograron observar qué pronombres le asignaban de manera espontánea al animal. Variaron entre oso, pájaro, gato, cerdo, pato, ratón y perro. 
+2. Realizaron un experimento con 1.300 personas, donde les pidieron a los participantes continuar una “microhistoria” que comenzaba de manera abierta: “Y entonces el [animal] dijo: ‘Debo ir al río’. Al llegar…”. De esta manera, lograron observar qué pronombres le asignaban de manera espontánea al animal. Variaron entre oso, pájaro, gato, cerdo, pato, ratón y perro. 
 
 ## **¿Cómo definieron los pronombres?**
 
